@@ -1,0 +1,29 @@
+
+
+.container {
+    max-width: 700px; 
+    margin: 0 auto;
+}
+.text-area {
+    font-size: 25px;
+    line-height: 1.5;
+}
+
+.button-area .btn-primary {
+    background-color: #07614a; 
+}
+
+.button-area .btn-primary {
+    padding: 10px 20px; 
+}
+
+.custom-heading {
+    font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
+    color: rgb(154, 230, 213);
+    
+}
+
+.twitter-logo {
+    width: 20px; /* Tamaño de la imagen del logo de Twitter */
+    margin-right: 5px; /* Espacio entre la imagen y el texto */
+}
