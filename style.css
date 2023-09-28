@@ -27,3 +27,10 @@
     width: 20px; /* Tamaño de la imagen del logo de Twitter */
     margin-right: 5px; /* Espacio entre la imagen y el texto */
 }
+
+#signed {
+    text-align: center;
+    padding: 15px;
+    font-weight:normal;
+    color: rgb(154, 230, 213);
+}
